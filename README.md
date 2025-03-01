@@ -3,7 +3,7 @@
 ## Description
 This project presents an HR Analysis dashboard built using Power BI. The dashboard provides insightful analytics on various aspects of a company's human resources, including demographics, attrition, job analysis, satisfaction, and correlation analysis. It aims to help HR departments understand workforce patterns and make data-driven decisions.
 ## Features
-•	Interactive dashboards with intuitive visualizations
+•	Interactive dashboards with intuitive visualizations<br>
 •	Detailed analysis of HR data
 •	Easy-to-use interface with drill-down capabilities
 •	Comprehensive reports covering multiple aspects of HR analytics
