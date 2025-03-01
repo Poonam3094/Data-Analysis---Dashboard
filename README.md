@@ -15,6 +15,8 @@ This project presents an HR Analysis dashboard built using Power BI. The dashboa
 •	Correlation Analysis: Analysis of correlations between different HR metrics to uncover hidden patterns and relationships.<br>
 ## Data Source
 <a href = "https://github.com/Poonam3094/Data-Analysis---Dashboard/blob/main/HR_Project_Power%20BI.csv">HR_Project_Power BI Dataset</a>
+## Dashboard Image
+![Screenshot 2025-03-01 232249](https://github.com/Poonam3094/Data-Analysis---Dashboard/blob/main/Screenshot%202025-03-01%20232249.png)
 ## Dashboard Interaction
 <a href = "https://github.com/Poonam3094/Data-Analysis---Dashboard/blob/main/Screenshot%202025-03-01%20232249.png">View Dashboard</a>
 ## Project Insights
