@@ -13,5 +13,6 @@ This project presents an HR Analysis dashboard built using Power BI. The dashboa
 •	Job Analysis: Examination of job roles, tenure, promotions, and job performance.
 •	Satisfaction Analysis: Evaluation of employee satisfaction levels across various parameters.
 •	Correlation Analysis: Analysis of correlations between different HR metrics to uncover hidden patterns and relationships.
+## Data Source
 
 
