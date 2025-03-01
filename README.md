@@ -13,12 +13,18 @@ This project presents an HR Analysis dashboard built using Power BI. The dashboa
 •	Job Analysis: Examination of job roles, tenure, preferences, and job involvement.<br>
 •	Satisfaction Analysis: Evaluation of employee satisfaction levels across various parameters.<br>
 •	Correlation Analysis: Analysis of correlations between different HR metrics to uncover hidden patterns and relationships.<br>
+## Tools Used
+•	Power BI<br>
+•	Excel<br>
+## How to Use
+•	Download the .pbix file and open it in Power BI Desktop.<br>
+•	Explore the interactive visualizations and insights provided. <br>
 ## Data Source
 <a href = "https://github.com/Poonam3094/Data-Analysis---Dashboard/blob/main/HR_Project_Power%20BI.csv">HR_Project_Power BI Dataset</a>
 ## Dashboard Image
 ![Screenshot 2025-03-01 232249](https://github.com/Poonam3094/Data-Analysis---Dashboard/blob/main/Screenshot%202025-03-01%20232249.png)
 ## Dashboard Interaction
-<a href = "https://github.com/Poonam3094/Data-Analysis---Dashboard/blob/main/Screenshot%202025-03-01%20232249.png">View Dashboard</a>
+<a href = "">View Dashboard</a>
 ## Project Insights
 •	Industry: The pharmaceutical and biotechnology industries are the top employers of life science and medical field professionals.<br>
 •	Employee Category : 100% of employees having 'single' as marital status, falls under "New comers".<br>
