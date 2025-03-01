@@ -9,8 +9,8 @@ This project presents an HR Analysis dashboard built using Power BI. The dashboa
 •	Comprehensive reports covering multiple aspects of HR analytics<br>
 ## Pages
 •	Demographics: Analysis of the workforce demographics, including age, gender, and department distribution.<br>
-•	Attrition Analysis: Insights into employee attrition rates, reasons for leaving, and trends over time.<br>
-•	Job Analysis: Examination of job roles, tenure, promotions, and job performance.<br>
+•	Attrition Analysis: Insights into employee attrition rates, possible reasons for leaving, and trends over time.<br>
+•	Job Analysis: Examination of job roles, tenure, preferences, and job involvement.<br>
 •	Satisfaction Analysis: Evaluation of employee satisfaction levels across various parameters.<br>
 •	Correlation Analysis: Analysis of correlations between different HR metrics to uncover hidden patterns and relationships.<br>
 ## Data Source
