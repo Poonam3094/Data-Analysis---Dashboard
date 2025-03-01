@@ -14,6 +14,7 @@ This project presents an HR Analysis dashboard built using Power BI. The dashboa
 •	Satisfaction Analysis: Evaluation of employee satisfaction levels across various parameters.
 •	Correlation Analysis: Analysis of correlations between different HR metrics to uncover hidden patterns and relationships.
 ## Data Source
-<a href = "https://github.com/Poonam3094/Data-Analysis---Dashboard/blob/main/HR_Project_Power%20BI.csv">HR_Project_Power BI</a>
+<a href = "https://github.com/Poonam3094/Data-Analysis---Dashboard/blob/main/HR_Project_Power%20BI.csv">HR_Project_Power BI Dataset</a>
 
-
+## Dashboard Interaction
+<a href = "">View Dashboard</a>
