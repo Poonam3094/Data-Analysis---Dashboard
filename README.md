@@ -37,4 +37,4 @@ The dashboard highlights key areas such as employee demographics, attrition rate
 Feel free to reach out if you have any questions or feedback!
 ### Contact
 - Email: poonam3094@gmail.com
-- LinkedIn: [Poonam Saini](www.linkedin.com/in/poonam-saini-a05aa975)
+- LinkedIn: www.linkedin.com/in/poonam-saini-a05aa975
